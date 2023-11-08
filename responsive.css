@@ -1,0 +1,69 @@
+@media only screen and (max-width: 768px){
+  .header2 .search_cart_item,#logo,#download_daraz{
+        display: none;
+    }
+    #search_bar{
+      width: 100%;
+    }
+    .search_cart_item input{
+      width: 83vw;
+    }
+    .a_h_categories{
+      padding-right: 0px;
+      width: 40px;
+      justify-content: center;
+      margin:3px ;
+    }
+    .img_heading h3{
+      display: none;
+    }
+    #random{
+      display: none;
+    }
+    .end_in{
+      display: none;
+    }
+    .p_s_sub_sec_1{
+      height: 40px;
+    }
+    .p_s_sub_sec_2{
+      justify-content: center;
+    }
+    .product_on_sale{
+      margin: 3px;
+    }
+    .full_container{
+      padding:0 50px;
+  }
+    .darazmall_prod{
+        justify-content: center;
+    }
+    .head2{
+      display: none;
+    }
+    .cat_list{
+      margin: 3px;
+    }
+    .cat_sub_sec{
+      justify-content: center;
+    }
+    .product_container{
+      text-align: center;
+    }
+    .product_sub_container{
+      justify-content: center;
+    }
+    .dots{
+      width: 10px;
+      height: 10px;
+    }
+  }
+  @media only screen and (max-width: 1200px){
+    #hero-section #prod-categories{
+      display: none;
+    }
+    #hero-section .hero_images img{
+      width: 100%;
+      height: 100%;
+    }
+  }
